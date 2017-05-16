@@ -23,9 +23,8 @@ twitter: username
 linkedin: vinhtran40
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
+disqus: disqus_ucDYPnk54j
 google_analytics: UA-86031119-1
-
 
 # needed for travis-ci build
 exclude: [vendor]
