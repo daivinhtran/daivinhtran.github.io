@@ -7,6 +7,9 @@ tags:
 - Software Engineering
 - SF
 ---
+
+<p><img src="{{ site.baseurl }}/assets/images/bag.jpg" alt="Bag" /></p>
+
 ## Day1&2:
 The first two days were mainly orientation and meeting with the teams.
 
