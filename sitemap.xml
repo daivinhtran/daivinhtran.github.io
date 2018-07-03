@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your_site_url_address/categories/</loc>
+    <loc>daivinhtran.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/tags/</loc>
+    <loc>daivinhtran.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>your_site_url_address/</loc>
+    <loc>daivinhtran.github.io/</loc>
     <priority>0</priority>
   </url>
   
